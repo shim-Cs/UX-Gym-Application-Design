@@ -10,3 +10,6 @@ Glow & Fit is a sleek gym app designed to simplify the user experience. Members 
 
 # Technologies Used
  • Figma
+
+# Figma Prototype:
+https://www.figma.com/design/yBWztrJ5weO3uXDHILgp5I/Untitled?node-id=162-546&t=BK3i7RohyJ4dxCoH-1
